@@ -1,2 +1,15 @@
-My name is sheikhalimi musthopha. I'm a data analyst, with Agentic engineer at a time. I'm originally from kwara state, nigeria, but currently livivg in Egypt.
-I love all foods, particularly Nigerian food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My Name Is Sheikhalimi Musthopha — Agentic AI Developer & Junior AI/Data Analyst, I'm originally from Kwara State, Nigeria, but currently based in Cairo, Egypt
+
+Focus areas:
+
+Building AI agents and multi-agent systems using OpenAI Agents SDK, LangGraph/LangChain, CrewAI, Google ADK, and AWS Strands Agents
+Data analysis and visualization with Python, SQL, Excel, and Power BI
+Working with Model Context Protocol (MCP), REST APIs, and prompt engineering
+Version control via Git & GitHub
+
+Value proposition: Combines AI engineering with data analytics — building interactive dashboards, analyzing business data, and developing LLM-powered applications aimed at improving decision-making and automating workflows.
+
+Education: Al-Azhar University
+
+Contact: musthophas@gmail.com | LinkedIn: linkedin.com/in/musthopha | Portfolio: github.com/sheikhalimi/My-Portfolio
+I love all foods, particularly Nigerian's Food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
