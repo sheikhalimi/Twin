@@ -5,10 +5,10 @@ BLUE = "#3E7C78"
 PURPLE = "#6D5B7B"
 
 EXAMPLES = [
-    "Which frontend technologies and frameworks do you specialize in?",
-    "Walk me through a recent frontend project.",
-    "How do you approach responsive, accessible UI development?",
-    "What is the best way to contact you about a frontend role?",
+    "Tell me about your background and experience.",
+    "What kinds of projects are you working on now?",
+    "What are your strongest technical skills?",
+    "How can I get in touch with you?",
 ]
 
 CSS = """
